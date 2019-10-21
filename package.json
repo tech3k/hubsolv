@@ -1,0 +1,15 @@
+{
+  "name": "@tech3k/hubsolv",
+  "version": "0.0.1",
+  "description": "Connector to allow easy lead transfers to the HubSolv api",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.11.1",
+    "typescript": "^3.6.4"
+  }
+}
